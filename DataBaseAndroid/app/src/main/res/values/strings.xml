@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataBaseAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview_default">Display</string>
+    <string name="create_button">Create</string>
+    <string name="default_editname">Enter name</string>
+    <string name="default_editsurname">Enter surname</string>
+    <string name="default_studentnum">Enter student number</string>
+    <string name="title_activity_readdata">readdata</string>
+</resources>
